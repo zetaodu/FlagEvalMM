@@ -1,0 +1,69 @@
+What:
+- Add ARPGrounding task configs and scripts under tasks/arpggrounding/
+  - process.py: build FlagEvalMM-standard data.json + img/
+  - evaluate.py: bbox IoU/ACC metrics (RefCOCO-style)
+  - configs: arpgrounding_{attribute,relation,priority}_val.py
+
+Data:
+- HuggingFace dataset: duzetao/ARPGrounding (attribute/relation/priority splits)
+
+Qwen3-VL API test:
+flagevalmm --tasks tasks/arpggrounding/arpgrounding_relation_val.py \
+  --exec model_zoo/vlm/api_model/model_adapter.py \
+  --model qwen3-vl-plus \
+  --url https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions \
+  --api-key "sk-xxxxxxxxxxxxxxxxxxxx" \
+  --num-workers 2 \
+  --output-dir ./results_smoke/qwen_api \
+  --use-cache \
+  --try-run
+
+Qwen3-VL API results:
+- attributes
+        2026-01-16 16:21:58,006 - INFO - evaluation_server.py:128 - Starting evaluation process for task arpgrounding_attribute_val
+        2026-01-16 16:21:58,016 - INFO - base_evaluator.py:465 - Single inference predictions detected, using standard evaluation
+        {'ACC@0.1': {'accuracy': 37.5, 'correct': 12, 'num': 32},
+         'ACC@0.3': {'accuracy': 37.5, 'correct': 12, 'num': 32},
+         'ACC@0.5': {'accuracy': 31.25, 'correct': 10, 'num': 32},
+         'ACC@0.7': {'accuracy': 25.0, 'correct': 8, 'num': 32},
+         'ACC@0.9': {'accuracy': 15.62, 'correct': 5, 'num': 32},
+         'Center_ACC': {'accuracy': 37.5, 'correct': 12, 'num': 32},
+         'accuracy': 37.5,
+         'average_completion_tokens': 22.9375,
+         'average_prompt_tokens': 495.96875,
+         'average_tokens': 518.90625,
+         'avg': {'accuracy': 37.5, 'correct': 12, 'num': 32}}
+        2026-01-16 16:21:58,638 - INFO - eval.py:119 - Command execution finished.
+        2026-01-16 16:21:58,638 - INFO - eval.py:227 - The process 2174686 is killed
+- relation
+        2026-01-16 16:24:13,294 - INFO - evaluation_server.py:128 - Starting evaluation process for task arpgrounding_relation_val
+        2026-01-16 16:24:13,302 - INFO - base_evaluator.py:465 - Single inference predictions detected, using standard evaluation
+        {'ACC@0.1': {'accuracy': 59.38, 'correct': 19, 'num': 32},
+         'ACC@0.3': {'accuracy': 50.0, 'correct': 16, 'num': 32},
+         'ACC@0.5': {'accuracy': 43.75, 'correct': 14, 'num': 32},
+         'ACC@0.7': {'accuracy': 21.88, 'correct': 7, 'num': 32},
+         'ACC@0.9': {'accuracy': 6.25, 'correct': 2, 'num': 32},
+         'Center_ACC': {'accuracy': 53.12, 'correct': 17, 'num': 32},
+         'accuracy': 59.38,
+         'average_completion_tokens': 23.5,
+         'average_prompt_tokens': 497.5625,
+         'average_tokens': 521.0625,
+         'avg': {'accuracy': 59.38, 'correct': 19, 'num': 32}}
+        2026-01-16 16:24:13,913 - INFO - eval.py:119 - Command execution finished.
+        2026-01-16 16:24:13,913 - INFO - eval.py:227 - The process 2175095 is killed
+- priority
+        2026-01-16 16:26:47,201 - INFO - evaluation_server.py:128 - Starting evaluation process for task arpgrounding_priority_val
+        2026-01-16 16:26:47,209 - INFO - base_evaluator.py:465 - Single inference predictions detected, using standard evaluation
+        {'ACC@0.1': {'accuracy': 46.88, 'correct': 15, 'num': 32},
+         'ACC@0.3': {'accuracy': 37.5, 'correct': 12, 'num': 32},
+         'ACC@0.5': {'accuracy': 37.5, 'correct': 12, 'num': 32},
+         'ACC@0.7': {'accuracy': 25.0, 'correct': 8, 'num': 32},
+         'ACC@0.9': {'accuracy': 9.38, 'correct': 3, 'num': 32},
+         'Center_ACC': {'accuracy': 46.88, 'correct': 15, 'num': 32},
+         'accuracy': 46.88,
+         'average_completion_tokens': 23.09375,
+         'average_prompt_tokens': 530.09375,
+         'average_tokens': 553.1875,
+         'avg': {'accuracy': 46.88, 'correct': 15, 'num': 32}}
+        2026-01-16 16:26:47,804 - INFO - eval.py:119 - Command execution finished.
+        2026-01-16 16:26:47,805 - INFO - eval.py:227 - The process 2175639 is killed

@@ -1,0 +1,1482 @@
+[
+  {
+    "question_id": "relation_29_0",
+    "answer": "(0.0013, 0.44, 1.0, 0.7)"
+  },
+  {
+    "question_id": "relation_331_0",
+    "answer": "(0.0875, 0.0167, 0.3109, 0.2958)"
+  },
+  {
+    "question_id": "relation_1410_0",
+    "answer": "(0.4487, 0.5533, 0.8488, 0.7217)"
+  },
+  {
+    "question_id": "relation_2282_0",
+    "answer": "(0.6462, 0.3367, 0.9988, 0.6533)"
+  },
+  {
+    "question_id": "relation_2659_0",
+    "answer": "(0.2775, 0.6423, 0.9187, 0.9663)"
+  },
+  {
+    "question_id": "relation_4002_0",
+    "answer": "(0.338, 0.0601, 0.756, 0.6757)"
+  },
+  {
+    "question_id": "relation_4166_0",
+    "answer": "(0.01, 0.825, 0.4037, 0.9983)"
+  },
+  {
+    "question_id": "relation_4166_1",
+    "answer": "(0.01, 0.825, 0.4037, 0.9983)"
+  },
+  {
+    "question_id": "relation_4166_2",
+    "answer": "(0.6225, 0.745, 0.9988, 0.9083)"
+  },
+  {
+    "question_id": "relation_4166_3",
+    "answer": "(0.66, 0.82, 0.9962, 0.9983)"
+  },
+  {
+    "question_id": "relation_4166_4",
+    "answer": "(0.6362, 0.775, 0.9975, 0.9783)"
+  },
+  {
+    "question_id": "relation_4166_5",
+    "answer": "(0.6225, 0.745, 0.9988, 0.9083)"
+  },
+  {
+    "question_id": "relation_285685_0",
+    "answer": "(0.3969, 0.6492, 0.8167, 0.8531)"
+  },
+  {
+    "question_id": "relation_285834_0",
+    "answer": "(0.2279, 0.1553, 0.5143, 0.4658)"
+  },
+  {
+    "question_id": "relation_713440_0",
+    "answer": "(0.0, 0.0, 0.4863, 0.3268)"
+  },
+  {
+    "question_id": "relation_1159528_0",
+    "answer": "(0.0977, 0.2913, 0.7744, 0.4395)"
+  },
+  {
+    "question_id": "relation_1592924_0",
+    "answer": "(0.5508, 0.2504, 0.6973, 0.8682)"
+  },
+  {
+    "question_id": "relation_1593011_0",
+    "answer": "(0.6602, 0.2981, 0.9229, 0.8811)"
+  },
+  {
+    "question_id": "relation_2414394_0",
+    "answer": "(0.002, 0.0035, 0.998, 0.1573)"
+  },
+  {
+    "question_id": "relation_2411719_0",
+    "answer": "(0.42, 0.3645, 0.548, 1.0)"
+  },
+  {
+    "question_id": "relation_2411470_0",
+    "answer": "(0.252, 0.4621, 0.572, 0.9977)"
+  },
+  {
+    "question_id": "relation_2411465_0",
+    "answer": "(0.904, 0.003, 0.996, 0.6018)"
+  },
+  {
+    "question_id": "relation_2411465_1",
+    "answer": "(0.866, 0.5509, 0.998, 0.9461)"
+  },
+  {
+    "question_id": "relation_2411465_2",
+    "answer": "(0.002, 0.0749, 0.176, 0.6048)"
+  },
+  {
+    "question_id": "relation_2411302_0",
+    "answer": "(0.218, 0.0964, 0.522, 1.0)"
+  },
+  {
+    "question_id": "relation_2411257_0",
+    "answer": "(0.0, 0.008, 0.856, 0.2427)"
+  },
+  {
+    "question_id": "relation_2411060_0",
+    "answer": "(0.132, 0.0747, 0.454, 0.952)"
+  },
+  {
+    "question_id": "relation_2410920_0",
+    "answer": "(0.2, 0.7006, 0.444, 0.979)"
+  },
+  {
+    "question_id": "relation_2410331_0",
+    "answer": "(0.004, 0.0027, 0.57, 0.896)"
+  },
+  {
+    "question_id": "relation_2410218_0",
+    "answer": "(0.008, 0.4955, 0.968, 0.6486)"
+  },
+  {
+    "question_id": "relation_2410163_0",
+    "answer": "(0.212, 0.2053, 0.404, 0.8107)"
+  },
+  {
+    "question_id": "relation_2410095_0",
+    "answer": "(0.274, 0.0751, 0.624, 0.3453)"
+  },
+  {
+    "question_id": "relation_2410095_1",
+    "answer": "(0.5, 0.4264, 0.938, 0.9369)"
+  },
+  {
+    "question_id": "relation_2410052_0",
+    "answer": "(0.382, 0.166, 0.838, 0.884)"
+  },
+  {
+    "question_id": "relation_2410025_0",
+    "answer": "(0.7627, 0.002, 0.9947, 0.376)"
+  },
+  {
+    "question_id": "relation_2409918_0",
+    "answer": "(0.53, 0.1411, 0.682, 0.5105)"
+  },
+  {
+    "question_id": "relation_2409873_0",
+    "answer": "(0.592, 0.52, 0.9067, 0.734)"
+  },
+  {
+    "question_id": "relation_2409873_1",
+    "answer": "(0.216, 0.494, 0.5973, 0.89)"
+  },
+  {
+    "question_id": "relation_2409842_0",
+    "answer": "(0.0, 0.2373, 0.998, 0.3573)"
+  },
+  {
+    "question_id": "relation_2409609_0",
+    "answer": "(0.0, 0.002, 0.631, 1.0)"
+  },
+  {
+    "question_id": "relation_2409303_0",
+    "answer": "(0.204, 0.6807, 0.806, 0.8976)"
+  },
+  {
+    "question_id": "relation_2409303_1",
+    "answer": "(0.27, 0.0934, 0.726, 0.3584)"
+  },
+  {
+    "question_id": "relation_2409290_0",
+    "answer": "(0.0027, 0.002, 0.4107, 0.998)"
+  },
+  {
+    "question_id": "relation_2409264_0",
+    "answer": "(0.31, 0.0542, 0.534, 0.8705)"
+  },
+  {
+    "question_id": "relation_2409136_0",
+    "answer": "(0.2823, 0.272, 0.5015, 0.756)"
+  },
+  {
+    "question_id": "relation_2409136_1",
+    "answer": "(0.2823, 0.272, 0.5015, 0.756)"
+  },
+  {
+    "question_id": "relation_2408663_0",
+    "answer": "(0.624, 0.4084, 0.938, 0.6246)"
+  },
+  {
+    "question_id": "relation_2408682_0",
+    "answer": "(0.304, 0.4209, 0.528, 0.7104)"
+  },
+  {
+    "question_id": "relation_2408765_0",
+    "answer": "(0.2192, 0.234, 0.9489, 0.698)"
+  },
+  {
+    "question_id": "relation_2408926_0",
+    "answer": "(0.494, 0.18, 0.83, 0.4422)"
+  },
+  {
+    "question_id": "relation_2409009_0",
+    "answer": "(0.702, 0.0309, 1.0, 0.2345)"
+  },
+  {
+    "question_id": "relation_2409009_1",
+    "answer": "(0.002, 0.1649, 0.9, 0.9407)"
+  },
+  {
+    "question_id": "relation_2408448_0",
+    "answer": "(0.426, 0.3173, 0.778, 0.9893)"
+  },
+  {
+    "question_id": "relation_2408399_0",
+    "answer": "(0.1973, 0.378, 0.9893, 0.998)"
+  },
+  {
+    "question_id": "relation_2407804_0",
+    "answer": "(0.262, 0.075, 0.994, 0.5806)"
+  },
+  {
+    "question_id": "relation_2407748_0",
+    "answer": "(0.002, 0.2747, 0.598, 0.7093)"
+  },
+  {
+    "question_id": "relation_2407525_0",
+    "answer": "(0.61, 0.3373, 0.942, 0.8584)"
+  },
+  {
+    "question_id": "relation_2407379_0",
+    "answer": "(0.008, 0.584, 0.434, 0.9867)"
+  },
+  {
+    "question_id": "relation_2407379_1",
+    "answer": "(0.008, 0.584, 0.434, 0.9867)"
+  },
+  {
+    "question_id": "relation_2407291_0",
+    "answer": "(0.0339, 0.1072, 0.9936, 0.2843)"
+  },
+  {
+    "question_id": "relation_2406860_0",
+    "answer": "(0.06, 0.1802, 0.476, 0.7057)"
+  },
+  {
+    "question_id": "relation_2406761_0",
+    "answer": "(0.544, 0.0178, 0.992, 0.9929)"
+  },
+  {
+    "question_id": "relation_2406708_0",
+    "answer": "(0.006, 0.1763, 0.99, 0.3769)"
+  },
+  {
+    "question_id": "relation_2406570_0",
+    "answer": "(0.004, 0.006, 0.994, 0.4835)"
+  },
+  {
+    "question_id": "relation_2406359_0",
+    "answer": "(0.824, 0.5572, 0.998, 0.988)"
+  },
+  {
+    "question_id": "relation_2406294_0",
+    "answer": "(0.164, 0.4059, 0.296, 0.948)"
+  },
+  {
+    "question_id": "relation_2406294_1",
+    "answer": "(0.416, 0.5619, 0.554, 0.9381)"
+  },
+  {
+    "question_id": "relation_2406098_0",
+    "answer": "(0.3213, 0.264, 0.967, 0.994)"
+  },
+  {
+    "question_id": "relation_2405972_0",
+    "answer": "(0.034, 0.0576, 0.624, 0.6682)"
+  },
+  {
+    "question_id": "relation_2405972_1",
+    "answer": "(0.034, 0.0576, 0.624, 0.6682)"
+  },
+  {
+    "question_id": "relation_2405845_0",
+    "answer": "(0.15, 0.4737, 0.274, 0.9778)"
+  },
+  {
+    "question_id": "relation_2405726_0",
+    "answer": "(0.52, 0.0721, 0.75, 0.8709)"
+  },
+  {
+    "question_id": "relation_2405216_0",
+    "answer": "(0.326, 0.356, 0.468, 0.82)"
+  },
+  {
+    "question_id": "relation_2405183_0",
+    "answer": "(0.0, 0.2064, 0.518, 0.9964)"
+  },
+  {
+    "question_id": "relation_2405042_0",
+    "answer": "(0.636, 0.0925, 1.0, 0.9929)"
+  },
+  {
+    "question_id": "relation_2405036_0",
+    "answer": "(0.004, 0.006, 1.0, 0.1832)"
+  },
+  {
+    "question_id": "relation_2404706_0",
+    "answer": "(0.07, 0.1862, 0.578, 0.7808)"
+  },
+  {
+    "question_id": "relation_2404573_0",
+    "answer": "(0.76, 0.2507, 1.0, 0.6827)"
+  },
+  {
+    "question_id": "relation_2404573_1",
+    "answer": "(0.212, 0.288, 0.638, 0.568)"
+  },
+  {
+    "question_id": "relation_2404526_0",
+    "answer": "(0.672, 0.1761, 0.854, 0.4577)"
+  },
+  {
+    "question_id": "relation_2404385_0",
+    "answer": "(0.808, 0.3273, 0.998, 0.7838)"
+  },
+  {
+    "question_id": "relation_2404375_0",
+    "answer": "(0.0, 0.2521, 0.338, 0.446)"
+  },
+  {
+    "question_id": "relation_2403114_0",
+    "answer": "(0.004, 0.2282, 1.0, 0.4595)"
+  },
+  {
+    "question_id": "relation_2402927_0",
+    "answer": "(0.7067, 0.0, 0.96, 0.558)"
+  },
+  {
+    "question_id": "relation_2402879_0",
+    "answer": "(0.024, 0.378, 0.5165, 0.644)"
+  },
+  {
+    "question_id": "relation_2402536_0",
+    "answer": "(0.004, 0.5856, 0.338, 0.8589)"
+  },
+  {
+    "question_id": "relation_2402356_0",
+    "answer": "(0.002, 0.7976, 0.998, 1.0)"
+  },
+  {
+    "question_id": "relation_2402290_0",
+    "answer": "(0.006, 0.1258, 0.808, 0.5644)"
+  },
+  {
+    "question_id": "relation_2401989_0",
+    "answer": "(0.1627, 0.642, 0.9947, 0.916)"
+  },
+  {
+    "question_id": "relation_2401951_0",
+    "answer": "(0.09, 0.5526, 0.324, 0.9009)"
+  },
+  {
+    "question_id": "relation_2401744_0",
+    "answer": "(0.004, 0.0041, 0.522, 0.281)"
+  },
+  {
+    "question_id": "relation_2401717_0",
+    "answer": "(0.132, 0.2278, 0.718, 0.8186)"
+  },
+  {
+    "question_id": "relation_2401491_0",
+    "answer": "(0.146, 0.4805, 0.886, 0.5856)"
+  },
+  {
+    "question_id": "relation_2400942_0",
+    "answer": "(0.646, 0.272, 1.0, 0.4853)"
+  },
+  {
+    "question_id": "relation_2400483_0",
+    "answer": "(0.406, 0.5736, 0.864, 0.994)"
+  },
+  {
+    "question_id": "relation_2400483_1",
+    "answer": "(0.406, 0.5736, 0.864, 0.994)"
+  },
+  {
+    "question_id": "relation_2399707_0",
+    "answer": "(0.488, 0.1627, 0.99, 0.8373)"
+  },
+  {
+    "question_id": "relation_2399390_0",
+    "answer": "(0.572, 0.3973, 0.996, 1.0)"
+  },
+  {
+    "question_id": "relation_2399260_0",
+    "answer": "(0.008, 0.0267, 0.6, 0.7973)"
+  },
+  {
+    "question_id": "relation_2399218_0",
+    "answer": "(0.186, 0.176, 0.998, 0.5973)"
+  },
+  {
+    "question_id": "relation_2399216_0",
+    "answer": "(0.792, 0.1021, 0.978, 0.8438)"
+  },
+  {
+    "question_id": "relation_2399216_1",
+    "answer": "(0.792, 0.1021, 0.978, 0.8438)"
+  },
+  {
+    "question_id": "relation_2398879_0",
+    "answer": "(0.2793, 0.086, 0.4655, 0.388)"
+  },
+  {
+    "question_id": "relation_2398077_0",
+    "answer": "(0.236, 0.0151, 0.626, 0.75)"
+  },
+  {
+    "question_id": "relation_2398077_1",
+    "answer": "(0.52, 0.3946, 0.828, 0.9639)"
+  },
+  {
+    "question_id": "relation_2397582_0",
+    "answer": "(0.118, 0.2583, 0.268, 0.6216)"
+  },
+  {
+    "question_id": "relation_2397538_0",
+    "answer": "(0.202, 0.5976, 0.442, 0.8258)"
+  },
+  {
+    "question_id": "relation_2397327_0",
+    "answer": "(0.06, 0.0025, 0.648, 0.1552)"
+  },
+  {
+    "question_id": "relation_2396476_0",
+    "answer": "(0.008, 0.015, 0.994, 0.3033)"
+  },
+  {
+    "question_id": "relation_2395370_0",
+    "answer": "(0.086, 0.0, 0.532, 0.4533)"
+  },
+  {
+    "question_id": "relation_2395370_1",
+    "answer": "(0.206, 0.264, 0.802, 0.8933)"
+  },
+  {
+    "question_id": "relation_2395232_0",
+    "answer": "(0.138, 0.2861, 0.362, 0.6446)"
+  },
+  {
+    "question_id": "relation_2394197_0",
+    "answer": "(0.0134, 0.882, 0.9946, 0.998)"
+  },
+  {
+    "question_id": "relation_2393920_0",
+    "answer": "(0.518, 0.6577, 0.708, 1.0)"
+  },
+  {
+    "question_id": "relation_2393920_1",
+    "answer": "(0.518, 0.6577, 0.708, 1.0)"
+  },
+  {
+    "question_id": "relation_2393729_0",
+    "answer": "(0.274, 0.7253, 0.544, 1.0)"
+  },
+  {
+    "question_id": "relation_2393510_0",
+    "answer": "(0.21, 0.0728, 0.398, 0.9188)"
+  },
+  {
+    "question_id": "relation_2393510_1",
+    "answer": "(0.21, 0.0728, 0.398, 0.9188)"
+  },
+  {
+    "question_id": "relation_2393414_0",
+    "answer": "(0.224, 0.6313, 0.472, 0.9204)"
+  },
+  {
+    "question_id": "relation_2393311_0",
+    "answer": "(0.198, 0.012, 0.536, 0.967)"
+  },
+  {
+    "question_id": "relation_2392698_0",
+    "answer": "(0.63, 0.4611, 0.812, 0.8383)"
+  },
+  {
+    "question_id": "relation_2392192_0",
+    "answer": "(0.606, 0.008, 0.996, 0.6693)"
+  },
+  {
+    "question_id": "relation_2391584_0",
+    "answer": "(0.08, 0.348, 0.2693, 0.656)"
+  },
+  {
+    "question_id": "relation_2391480_0",
+    "answer": "(0.252, 0.6437, 1.0, 0.9102)"
+  },
+  {
+    "question_id": "relation_2390992_0",
+    "answer": "(0.04, 0.2643, 0.236, 0.5916)"
+  },
+  {
+    "question_id": "relation_2390646_0",
+    "answer": "(0.152, 0.3483, 0.442, 0.976)"
+  },
+  {
+    "question_id": "relation_2390547_0",
+    "answer": "(0.2, 0.6299, 0.458, 0.9964)"
+  },
+  {
+    "question_id": "relation_2390547_1",
+    "answer": "(0.184, 0.0, 0.388, 0.3772)"
+  },
+  {
+    "question_id": "relation_2390065_0",
+    "answer": "(0.126, 0.003, 0.41, 0.3383)"
+  },
+  {
+    "question_id": "relation_2390040_0",
+    "answer": "(0.004, 0.4267, 0.564, 0.8053)"
+  },
+  {
+    "question_id": "relation_2390027_0",
+    "answer": "(0.236, 0.0373, 0.402, 0.368)"
+  },
+  {
+    "question_id": "relation_2389972_0",
+    "answer": "(0.5045, 0.638, 0.997, 1.0)"
+  },
+  {
+    "question_id": "relation_2389705_0",
+    "answer": "(0.002, 0.4568, 0.77, 0.8442)"
+  },
+  {
+    "question_id": "relation_2389485_0",
+    "answer": "(0.408, 0.3623, 0.848, 0.6826)"
+  },
+  {
+    "question_id": "relation_2388420_0",
+    "answer": "(0.354, 0.0858, 0.822, 0.6893)"
+  },
+  {
+    "question_id": "relation_2388280_0",
+    "answer": "(0.262, 0.6933, 0.742, 0.9309)"
+  },
+  {
+    "question_id": "relation_2388280_1",
+    "answer": "(0.262, 0.6933, 0.742, 0.9309)"
+  },
+  {
+    "question_id": "relation_2387833_0",
+    "answer": "(0.066, 0.7057, 0.982, 0.976)"
+  },
+  {
+    "question_id": "relation_2387575_0",
+    "answer": "(0.038, 0.7778, 0.948, 0.8709)"
+  },
+  {
+    "question_id": "relation_2387551_0",
+    "answer": "(0.286, 0.3824, 0.598, 0.7005)"
+  },
+  {
+    "question_id": "relation_2387348_0",
+    "answer": "(0.428, 0.4669, 0.878, 0.6687)"
+  },
+  {
+    "question_id": "relation_2386705_0",
+    "answer": "(0.024, 0.0183, 0.278, 0.5743)"
+  },
+  {
+    "question_id": "relation_2386180_0",
+    "answer": "(0.0213, 0.462, 0.9893, 0.82)"
+  },
+  {
+    "question_id": "relation_2386180_1",
+    "answer": "(0.3387, 0.07, 0.784, 0.652)"
+  },
+  {
+    "question_id": "relation_2385986_0",
+    "answer": "(0.43, 0.5958, 0.832, 0.9521)"
+  },
+  {
+    "question_id": "relation_2385711_0",
+    "answer": "(0.666, 0.56, 0.996, 0.9973)"
+  },
+  {
+    "question_id": "relation_2385706_0",
+    "answer": "(0.046, 0.472, 1.0, 1.0)"
+  },
+  {
+    "question_id": "relation_2385570_0",
+    "answer": "(0.742, 0.1527, 0.998, 0.994)"
+  },
+  {
+    "question_id": "relation_2385473_0",
+    "answer": "(0.0, 0.1886, 0.7, 0.6796)"
+  },
+  {
+    "question_id": "relation_2385458_0",
+    "answer": "(0.122, 0.1562, 0.434, 0.9279)"
+  },
+  {
+    "question_id": "relation_2385458_1",
+    "answer": "(0.766, 0.1021, 0.926, 0.8258)"
+  },
+  {
+    "question_id": "relation_2385237_0",
+    "answer": "(0.0, 0.8187, 0.996, 1.0)"
+  },
+  {
+    "question_id": "relation_2385224_0",
+    "answer": "(0.696, 0.1705, 0.968, 0.9457)"
+  },
+  {
+    "question_id": "relation_2385128_0",
+    "answer": "(0.078, 0.0611, 0.394, 0.9968)"
+  },
+  {
+    "question_id": "relation_2384631_0",
+    "answer": "(0.5857, 0.1349, 0.9952, 0.8016)"
+  },
+  {
+    "question_id": "relation_2384488_0",
+    "answer": "(0.0, 0.7813, 0.996, 1.0)"
+  },
+  {
+    "question_id": "relation_2384444_0",
+    "answer": "(0.48, 0.4611, 0.622, 1.0)"
+  },
+  {
+    "question_id": "relation_2384444_1",
+    "answer": "(0.232, 0.7425, 0.47, 0.994)"
+  },
+  {
+    "question_id": "relation_2384395_0",
+    "answer": "(0.65, 0.0508, 0.906, 0.5856)"
+  },
+  {
+    "question_id": "relation_2384150_0",
+    "answer": "(0.625, 0.688, 0.8125, 0.998)"
+  },
+  {
+    "question_id": "relation_2384111_0",
+    "answer": "(0.83, 0.4773, 0.982, 1.0)"
+  },
+  {
+    "question_id": "relation_2384111_1",
+    "answer": "(0.83, 0.4773, 0.982, 1.0)"
+  },
+  {
+    "question_id": "relation_2383889_0",
+    "answer": "(0.0026, 0.77, 0.5435, 0.998)"
+  },
+  {
+    "question_id": "relation_2383889_1",
+    "answer": "(0.4301, 0.03, 0.7546, 0.544)"
+  },
+  {
+    "question_id": "relation_2383667_0",
+    "answer": "(0.652, 0.52, 0.904, 0.984)"
+  },
+  {
+    "question_id": "relation_2383667_1",
+    "answer": "(0.672, 0.0107, 0.924, 0.24)"
+  },
+  {
+    "question_id": "relation_2383612_0",
+    "answer": "(0.05, 0.6963, 0.97, 0.8453)"
+  },
+  {
+    "question_id": "relation_2383564_0",
+    "answer": "(0.046, 0.2139, 0.308, 0.9335)"
+  },
+  {
+    "question_id": "relation_2383475_0",
+    "answer": "(0.55, 0.616, 0.888, 0.9973)"
+  },
+  {
+    "question_id": "relation_2383328_0",
+    "answer": "(0.0802, 0.248, 0.3529, 0.604)"
+  },
+  {
+    "question_id": "relation_2383138_0",
+    "answer": "(0.228, 0.003, 0.404, 0.3393)"
+  },
+  {
+    "question_id": "relation_2382935_0",
+    "answer": "(0.3002, 0.73, 0.6911, 0.994)"
+  },
+  {
+    "question_id": "relation_2382935_1",
+    "answer": "(0.6048, 0.344, 0.9633, 0.996)"
+  },
+  {
+    "question_id": "relation_2382935_2",
+    "answer": "(0.6048, 0.344, 0.9633, 0.996)"
+  },
+  {
+    "question_id": "relation_2382760_0",
+    "answer": "(0.276, 0.7898, 0.754, 0.988)"
+  },
+  {
+    "question_id": "relation_2382505_0",
+    "answer": "(0.002, 0.208, 0.308, 0.8)"
+  },
+  {
+    "question_id": "relation_2382350_0",
+    "answer": "(0.23, 0.2907, 0.64, 0.872)"
+  },
+  {
+    "question_id": "relation_2382253_0",
+    "answer": "(0.402, 0.0, 0.994, 0.3807)"
+  },
+  {
+    "question_id": "relation_2382253_1",
+    "answer": "(0.818, 0.006, 1.0, 0.7885)"
+  },
+  {
+    "question_id": "relation_2382008_0",
+    "answer": "(0.54, 0.6631, 0.832, 1.0)"
+  },
+  {
+    "question_id": "relation_2381808_0",
+    "answer": "(0.3173, 0.088, 0.6267, 0.3)"
+  },
+  {
+    "question_id": "relation_2381170_0",
+    "answer": "(0.326, 0.8645, 0.7, 1.0)"
+  },
+  {
+    "question_id": "relation_2380797_0",
+    "answer": "(0.414, 0.0, 0.524, 0.6907)"
+  },
+  {
+    "question_id": "relation_2380129_0",
+    "answer": "(0.002, 0.5405, 0.998, 1.0)"
+  },
+  {
+    "question_id": "relation_2379550_0",
+    "answer": "(0.024, 0.512, 0.9867, 0.996)"
+  },
+  {
+    "question_id": "relation_2379504_0",
+    "answer": "(0.05, 0.1597, 0.182, 0.7899)"
+  },
+  {
+    "question_id": "relation_2378478_0",
+    "answer": "(0.752, 0.4114, 0.996, 0.994)"
+  },
+  {
+    "question_id": "relation_2378366_0",
+    "answer": "(0.162, 0.7787, 0.51, 1.0)"
+  },
+  {
+    "question_id": "relation_2378366_1",
+    "answer": "(0.35, 0.5307, 0.728, 0.952)"
+  },
+  {
+    "question_id": "relation_2378282_0",
+    "answer": "(0.522, 0.6987, 1.0, 0.9973)"
+  },
+  {
+    "question_id": "relation_2377667_0",
+    "answer": "(0.514, 0.6427, 0.996, 0.9973)"
+  },
+  {
+    "question_id": "relation_2377384_0",
+    "answer": "(0.442, 0.43, 0.696, 0.804)"
+  },
+  {
+    "question_id": "relation_2377032_0",
+    "answer": "(0.002, 0.024, 0.2, 0.5405)"
+  },
+  {
+    "question_id": "relation_2375604_0",
+    "answer": "(0.3784, 0.24, 0.8559, 0.61)"
+  },
+  {
+    "question_id": "relation_2375512_0",
+    "answer": "(0.008, 0.3604, 0.478, 0.991)"
+  },
+  {
+    "question_id": "relation_2373816_0",
+    "answer": "(0.428, 0.3814, 0.992, 0.5015)"
+  },
+  {
+    "question_id": "relation_2373519_0",
+    "answer": "(0.366, 0.1761, 0.908, 0.3522)"
+  },
+  {
+    "question_id": "relation_2373354_0",
+    "answer": "(0.822, 0.5522, 0.954, 0.9403)"
+  },
+  {
+    "question_id": "relation_2373354_1",
+    "answer": "(0.498, 0.191, 0.67, 0.6)"
+  },
+  {
+    "question_id": "relation_2373354_2",
+    "answer": "(0.498, 0.191, 0.67, 0.6)"
+  },
+  {
+    "question_id": "relation_2370727_0",
+    "answer": "(0.194, 0.1246, 0.554, 0.6511)"
+  },
+  {
+    "question_id": "relation_2370321_0",
+    "answer": "(0.77, 0.4849, 0.97, 0.994)"
+  },
+  {
+    "question_id": "relation_2369736_0",
+    "answer": "(0.608, 0.186, 0.96, 0.514)"
+  },
+  {
+    "question_id": "relation_2369735_0",
+    "answer": "(0.0, 0.1802, 0.182, 0.6547)"
+  },
+  {
+    "question_id": "relation_2369735_1",
+    "answer": "(0.0, 0.1802, 0.182, 0.6547)"
+  },
+  {
+    "question_id": "relation_2369735_2",
+    "answer": "(0.322, 0.2102, 0.632, 0.7898)"
+  },
+  {
+    "question_id": "relation_2369735_3",
+    "answer": "(0.322, 0.2102, 0.632, 0.7898)"
+  },
+  {
+    "question_id": "relation_2367813_0",
+    "answer": "(0.435, 0.258, 0.6284, 0.558)"
+  },
+  {
+    "question_id": "relation_2367700_0",
+    "answer": "(0.0827, 0.448, 0.8533, 0.752)"
+  },
+  {
+    "question_id": "relation_2367579_0",
+    "answer": "(0.412, 0.2907, 0.756, 0.8933)"
+  },
+  {
+    "question_id": "relation_2367479_0",
+    "answer": "(0.0108, 0.742, 0.2769, 0.998)"
+  },
+  {
+    "question_id": "relation_2367352_0",
+    "answer": "(0.244, 0.4535, 0.486, 0.8288)"
+  },
+  {
+    "question_id": "relation_2367117_0",
+    "answer": "(0.252, 0.0907, 0.53, 0.864)"
+  },
+  {
+    "question_id": "relation_2367068_0",
+    "answer": "(0.382, 0.4662, 0.64, 0.9217)"
+  },
+  {
+    "question_id": "relation_2366974_0",
+    "answer": "(0.7027, 0.12, 0.997, 0.754)"
+  },
+  {
+    "question_id": "relation_2366974_1",
+    "answer": "(0.0811, 0.154, 0.5015, 0.836)"
+  },
+  {
+    "question_id": "relation_2366176_0",
+    "answer": "(0.6617, 0.468, 0.997, 0.77)"
+  },
+  {
+    "question_id": "relation_2366176_1",
+    "answer": "(0.6617, 0.468, 0.997, 0.77)"
+  },
+  {
+    "question_id": "relation_2365157_0",
+    "answer": "(0.174, 0.7101, 0.458, 0.9393)"
+  },
+  {
+    "question_id": "relation_2365147_0",
+    "answer": "(0.662, 0.4711, 0.85, 0.9684)"
+  },
+  {
+    "question_id": "relation_2364902_0",
+    "answer": "(0.312, 0.522, 0.702, 0.748)"
+  },
+  {
+    "question_id": "relation_2364766_0",
+    "answer": "(0.02, 0.0781, 0.384, 0.7868)"
+  },
+  {
+    "question_id": "relation_2363785_0",
+    "answer": "(0.454, 0.4397, 0.77, 0.7459)"
+  },
+  {
+    "question_id": "relation_2362857_0",
+    "answer": "(0.0, 0.0, 0.294, 0.8427)"
+  },
+  {
+    "question_id": "relation_2362123_0",
+    "answer": "(0.516, 0.1212, 0.936, 0.4465)"
+  },
+  {
+    "question_id": "relation_2361424_0",
+    "answer": "(0.0991, 0.146, 0.4805, 0.98)"
+  },
+  {
+    "question_id": "relation_2360944_0",
+    "answer": "(0.1, 0.0, 0.29, 0.9467)"
+  },
+  {
+    "question_id": "relation_2360633_0",
+    "answer": "(0.144, 0.0062, 0.42, 0.9969)"
+  },
+  {
+    "question_id": "relation_2359032_0",
+    "answer": "(0.605, 0.768, 0.9975, 0.996)"
+  },
+  {
+    "question_id": "relation_2358382_0",
+    "answer": "(0.262, 0.0027, 1.0, 0.1893)"
+  },
+  {
+    "question_id": "relation_2358375_0",
+    "answer": "(0.0, 0.3731, 0.442, 0.5731)"
+  },
+  {
+    "question_id": "relation_2357738_0",
+    "answer": "(0.7979, 0.124, 0.9965, 0.666)"
+  },
+  {
+    "question_id": "relation_2357662_0",
+    "answer": "(0.0, 0.8107, 0.996, 0.9857)"
+  },
+  {
+    "question_id": "relation_2357561_0",
+    "answer": "(0.696, 0.28, 0.808, 0.816)"
+  },
+  {
+    "question_id": "relation_2357514_0",
+    "answer": "(0.0033, 0.678, 0.4314, 0.994)"
+  },
+  {
+    "question_id": "relation_2357514_1",
+    "answer": "(0.214, 0.202, 0.8863, 0.634)"
+  },
+  {
+    "question_id": "relation_2357240_0",
+    "answer": "(0.01, 0.1682, 0.998, 0.997)"
+  },
+  {
+    "question_id": "relation_2356426_0",
+    "answer": "(0.716, 0.5796, 0.924, 0.8288)"
+  },
+  {
+    "question_id": "relation_2355933_0",
+    "answer": "(0.122, 0.0, 0.962, 0.2776)"
+  },
+  {
+    "question_id": "relation_2355760_0",
+    "answer": "(0.248, 0.1, 0.488, 0.812)"
+  },
+  {
+    "question_id": "relation_2355606_0",
+    "answer": "(0.0, 0.5045, 0.998, 0.997)"
+  },
+  {
+    "question_id": "relation_2355507_0",
+    "answer": "(0.502, 0.1592, 0.73, 0.9339)"
+  },
+  {
+    "question_id": "relation_2355447_0",
+    "answer": "(0.006, 0.2907, 0.122, 0.8953)"
+  },
+  {
+    "question_id": "relation_2355400_0",
+    "answer": "(0.002, 0.6453, 0.396, 0.9973)"
+  },
+  {
+    "question_id": "relation_2355400_1",
+    "answer": "(0.14, 0.0, 0.802, 0.32)"
+  },
+  {
+    "question_id": "relation_2355371_0",
+    "answer": "(0.742, 0.1144, 0.958, 0.8635)"
+  },
+  {
+    "question_id": "relation_2354864_0",
+    "answer": "(0.564, 0.1862, 0.934, 0.7297)"
+  },
+  {
+    "question_id": "relation_2354410_0",
+    "answer": "(0.0, 0.4474, 0.542, 1.0)"
+  },
+  {
+    "question_id": "relation_2354206_0",
+    "answer": "(0.748, 0.4024, 0.976, 0.997)"
+  },
+  {
+    "question_id": "relation_2353544_0",
+    "answer": "(0.328, 0.4805, 0.862, 0.997)"
+  },
+  {
+    "question_id": "relation_2353445_0",
+    "answer": "(0.718, 0.3664, 1.0, 0.6787)"
+  },
+  {
+    "question_id": "relation_2353200_0",
+    "answer": "(0.684, 0.3307, 0.85, 0.672)"
+  },
+  {
+    "question_id": "relation_2352546_0",
+    "answer": "(0.1467, 0.278, 0.4773, 0.994)"
+  },
+  {
+    "question_id": "relation_2352326_0",
+    "answer": "(0.0027, 0.468, 0.9973, 0.996)"
+  },
+  {
+    "question_id": "relation_2352110_0",
+    "answer": "(0.692, 0.0, 0.892, 0.3213)"
+  },
+  {
+    "question_id": "relation_2351580_0",
+    "answer": "(0.514, 0.1682, 0.992, 0.985)"
+  },
+  {
+    "question_id": "relation_2350897_0",
+    "answer": "(0.632, 0.3784, 0.842, 0.7898)"
+  },
+  {
+    "question_id": "relation_2350881_0",
+    "answer": "(0.616, 0.5808, 0.996, 0.9701)"
+  },
+  {
+    "question_id": "relation_2350846_0",
+    "answer": "(0.658, 0.6192, 0.998, 0.9822)"
+  },
+  {
+    "question_id": "relation_2350143_0",
+    "answer": "(0.5452, 0.076, 0.8137, 0.756)"
+  },
+  {
+    "question_id": "relation_2349447_0",
+    "answer": "(0.662, 0.68, 0.86, 0.9947)"
+  },
+  {
+    "question_id": "relation_2349447_1",
+    "answer": "(0.394, 0.3333, 0.552, 0.9707)"
+  },
+  {
+    "question_id": "relation_2349431_0",
+    "answer": "(0.2587, 0.588, 0.7067, 0.906)"
+  },
+  {
+    "question_id": "relation_2348466_0",
+    "answer": "(0.48, 0.4282, 0.66, 1.0)"
+  },
+  {
+    "question_id": "relation_2348321_0",
+    "answer": "(0.334, 0.4084, 0.594, 0.6787)"
+  },
+  {
+    "question_id": "relation_2348321_1",
+    "answer": "(0.59, 0.3634, 0.842, 0.7147)"
+  },
+  {
+    "question_id": "relation_2348231_0",
+    "answer": "(0.092, 0.6937, 0.968, 0.994)"
+  },
+  {
+    "question_id": "relation_2347668_0",
+    "answer": "(0.596, 0.1321, 0.88, 0.9339)"
+  },
+  {
+    "question_id": "relation_2347668_1",
+    "answer": "(0.27, 0.1171, 0.53, 0.9219)"
+  },
+  {
+    "question_id": "relation_2346380_0",
+    "answer": "(0.598, 0.0027, 0.996, 0.9973)"
+  },
+  {
+    "question_id": "relation_2346104_0",
+    "answer": "(0.564, 0.4533, 0.834, 0.84)"
+  },
+  {
+    "question_id": "relation_2345565_0",
+    "answer": "(0.686, 0.1582, 0.998, 0.7994)"
+  },
+  {
+    "question_id": "relation_2345353_0",
+    "answer": "(0.548, 0.1653, 0.998, 0.688)"
+  },
+  {
+    "question_id": "relation_2345353_1",
+    "answer": "(0.548, 0.1653, 0.998, 0.688)"
+  },
+  {
+    "question_id": "relation_2345353_2",
+    "answer": "(0.076, 0.544, 0.708, 0.784)"
+  },
+  {
+    "question_id": "relation_2345014_0",
+    "answer": "(0.104, 0.6725, 0.36, 0.8768)"
+  },
+  {
+    "question_id": "relation_2344682_0",
+    "answer": "(0.506, 0.0925, 0.832, 0.5338)"
+  },
+  {
+    "question_id": "relation_2344207_0",
+    "answer": "(0.458, 0.5826, 0.796, 1.0)"
+  },
+  {
+    "question_id": "relation_2344058_0",
+    "answer": "(0.032, 0.0625, 0.612, 0.5755)"
+  },
+  {
+    "question_id": "relation_2343750_0",
+    "answer": "(0.212, 0.544, 0.404, 0.9493)"
+  },
+  {
+    "question_id": "relation_2343510_0",
+    "answer": "(0.224, 0.024, 0.7173, 0.558)"
+  },
+  {
+    "question_id": "relation_2343510_1",
+    "answer": "(0.2613, 0.48, 0.816, 0.976)"
+  },
+  {
+    "question_id": "relation_2343493_0",
+    "answer": "(0.112, 0.048, 0.29, 0.6096)"
+  },
+  {
+    "question_id": "relation_2343493_1",
+    "answer": "(0.396, 0.018, 0.606, 0.8258)"
+  },
+  {
+    "question_id": "relation_2343493_2",
+    "answer": "(0.396, 0.018, 0.606, 0.8258)"
+  },
+  {
+    "question_id": "relation_2343493_3",
+    "answer": "(0.396, 0.018, 0.606, 0.8258)"
+  },
+  {
+    "question_id": "relation_2343493_4",
+    "answer": "(0.112, 0.048, 0.29, 0.6096)"
+  },
+  {
+    "question_id": "relation_2343493_5",
+    "answer": "(0.112, 0.048, 0.29, 0.6096)"
+  },
+  {
+    "question_id": "relation_2343247_0",
+    "answer": "(0.0, 0.5813, 0.198, 0.9867)"
+  },
+  {
+    "question_id": "relation_2343247_1",
+    "answer": "(0.0, 0.5813, 0.198, 0.9867)"
+  },
+  {
+    "question_id": "relation_2343247_2",
+    "answer": "(0.0, 0.5813, 0.198, 0.9867)"
+  },
+  {
+    "question_id": "relation_2343247_3",
+    "answer": "(0.426, 0.288, 0.81, 0.768)"
+  },
+  {
+    "question_id": "relation_2343205_0",
+    "answer": "(0.122, 0.075, 0.418, 0.995)"
+  },
+  {
+    "question_id": "relation_2343146_0",
+    "answer": "(0.488, 0.1502, 0.662, 0.4595)"
+  },
+  {
+    "question_id": "relation_2342894_0",
+    "answer": "(0.26, 0.1653, 0.566, 0.7147)"
+  },
+  {
+    "question_id": "relation_2342894_1",
+    "answer": "(0.26, 0.1653, 0.566, 0.7147)"
+  },
+  {
+    "question_id": "relation_2342104_0",
+    "answer": "(0.056, 0.6024, 0.354, 0.95)"
+  },
+  {
+    "question_id": "relation_2341806_0",
+    "answer": "(0.802, 0.1832, 0.998, 0.994)"
+  },
+  {
+    "question_id": "relation_2341806_1",
+    "answer": "(0.802, 0.1832, 0.998, 0.994)"
+  },
+  {
+    "question_id": "relation_2341755_0",
+    "answer": "(0.0, 0.45, 0.116, 0.948)"
+  },
+  {
+    "question_id": "relation_2341755_1",
+    "answer": "(0.0, 0.45, 0.116, 0.948)"
+  },
+  {
+    "question_id": "relation_2341571_0",
+    "answer": "(0.502, 0.0719, 1.0, 0.9311)"
+  },
+  {
+    "question_id": "relation_2341457_0",
+    "answer": "(0.014, 0.48, 0.348, 0.856)"
+  },
+  {
+    "question_id": "relation_2341364_0",
+    "answer": "(0.0, 0.5733, 0.18, 0.9813)"
+  },
+  {
+    "question_id": "relation_2341364_1",
+    "answer": "(0.258, 0.504, 0.42, 0.9067)"
+  },
+  {
+    "question_id": "relation_2341364_2",
+    "answer": "(0.496, 0.4907, 0.696, 0.952)"
+  },
+  {
+    "question_id": "relation_2340746_0",
+    "answer": "(0.7117, 0.204, 0.973, 0.608)"
+  },
+  {
+    "question_id": "relation_2340668_0",
+    "answer": "(0.006, 0.864, 0.99, 0.9973)"
+  },
+  {
+    "question_id": "relation_2339387_0",
+    "answer": "(0.03, 0.2523, 0.376, 0.6907)"
+  },
+  {
+    "question_id": "relation_2339336_0",
+    "answer": "(0.76, 0.0, 0.884, 0.4454)"
+  },
+  {
+    "question_id": "relation_2338552_0",
+    "answer": "(0.238, 0.0027, 0.438, 0.3787)"
+  },
+  {
+    "question_id": "relation_2337215_0",
+    "answer": "(0.478, 0.392, 0.912, 0.7387)"
+  },
+  {
+    "question_id": "relation_2335599_0",
+    "answer": "(0.0, 0.3795, 0.996, 0.6837)"
+  },
+  {
+    "question_id": "relation_2334407_0",
+    "answer": "(0.778, 0.4, 0.996, 0.9227)"
+  },
+  {
+    "question_id": "relation_2333817_0",
+    "answer": "(0.09, 0.3273, 0.35, 0.7267)"
+  },
+  {
+    "question_id": "relation_2331528_0",
+    "answer": "(0.0027, 0.768, 0.3093, 0.998)"
+  },
+  {
+    "question_id": "relation_2330045_0",
+    "answer": "(0.1522, 0.564, 0.5104, 0.794)"
+  },
+  {
+    "question_id": "relation_2328306_0",
+    "answer": "(0.006, 0.3787, 0.198, 0.992)"
+  },
+  {
+    "question_id": "relation_2324582_0",
+    "answer": "(0.766, 0.1579, 0.966, 0.807)"
+  },
+  {
+    "question_id": "relation_2324527_0",
+    "answer": "(0.544, 0.3081, 0.998, 0.9953)"
+  },
+  {
+    "question_id": "relation_2324527_1",
+    "answer": "(0.544, 0.3081, 0.998, 0.9953)"
+  },
+  {
+    "question_id": "relation_2324442_0",
+    "answer": "(0.638, 0.4521, 0.998, 0.8054)"
+  },
+  {
+    "question_id": "relation_2324442_1",
+    "answer": "(0.006, 0.2126, 0.492, 0.482)"
+  },
+  {
+    "question_id": "relation_2324395_0",
+    "answer": "(0.546, 0.1471, 0.95, 0.5045)"
+  },
+  {
+    "question_id": "relation_2322407_0",
+    "answer": "(0.0, 0.7087, 0.578, 0.997)"
+  },
+  {
+    "question_id": "relation_2322226_0",
+    "answer": "(0.17, 0.0601, 0.732, 1.0)"
+  },
+  {
+    "question_id": "relation_2322220_0",
+    "answer": "(0.004, 0.0075, 0.556, 0.585)"
+  },
+  {
+    "question_id": "relation_2321959_0",
+    "answer": "(0.004, 0.003, 0.082, 0.8223)"
+  },
+  {
+    "question_id": "relation_2321959_1",
+    "answer": "(0.072, 0.003, 0.264, 0.6687)"
+  },
+  {
+    "question_id": "relation_2321805_0",
+    "answer": "(0.1125, 0.39, 0.35, 0.6567)"
+  },
+  {
+    "question_id": "relation_2321266_0",
+    "answer": "(0.268, 0.4465, 0.392, 0.9064)"
+  },
+  {
+    "question_id": "relation_2320400_0",
+    "answer": "(0.422, 0.06, 0.95, 1.0)"
+  },
+  {
+    "question_id": "relation_2320337_0",
+    "answer": "(0.284, 0.542, 0.92, 0.714)"
+  },
+  {
+    "question_id": "relation_2319998_0",
+    "answer": "(0.0, 0.0, 0.492, 0.6613)"
+  },
+  {
+    "question_id": "relation_2319998_1",
+    "answer": "(0.478, 0.0027, 0.89, 0.7893)"
+  },
+  {
+    "question_id": "relation_2319857_0",
+    "answer": "(0.122, 0.5294, 0.444, 0.7003)"
+  },
+  {
+    "question_id": "relation_2319857_1",
+    "answer": "(0.516, 0.4034, 0.816, 0.8599)"
+  },
+  {
+    "question_id": "relation_2319857_2",
+    "answer": "(0.122, 0.5294, 0.444, 0.7003)"
+  },
+  {
+    "question_id": "relation_2319453_0",
+    "answer": "(0.238, 0.1886, 0.564, 0.7275)"
+  },
+  {
+    "question_id": "relation_2319449_0",
+    "answer": "(0.0, 0.402, 0.6, 0.804)"
+  },
+  {
+    "question_id": "relation_2319408_0",
+    "answer": "(0.642, 0.003, 0.998, 0.8097)"
+  },
+  {
+    "question_id": "relation_2319280_0",
+    "answer": "(0.048, 0.6587, 0.27, 0.888)"
+  },
+  {
+    "question_id": "relation_2318741_0",
+    "answer": "(0.0991, 0.696, 0.8018, 0.968)"
+  },
+  {
+    "question_id": "relation_2318741_1",
+    "answer": "(0.3093, 0.136, 0.6577, 0.378)"
+  },
+  {
+    "question_id": "relation_2318636_0",
+    "answer": "(0.63, 0.3042, 0.772, 0.6592)"
+  },
+  {
+    "question_id": "relation_2318636_1",
+    "answer": "(0.63, 0.3042, 0.772, 0.6592)"
+  },
+  {
+    "question_id": "relation_2318636_2",
+    "answer": "(0.294, 0.2085, 0.476, 0.8197)"
+  },
+  {
+    "question_id": "relation_2317755_0",
+    "answer": "(0.518, 0.2036, 0.792, 0.988)"
+  },
+  {
+    "question_id": "relation_2414477_0",
+    "answer": "(0.376, 0.1265, 0.776, 1.0)"
+  },
+  {
+    "question_id": "relation_2414327_0",
+    "answer": "(0.836, 0.4925, 0.996, 0.8529)"
+  },
+  {
+    "question_id": "relation_2414327_1",
+    "answer": "(0.048, 0.5315, 0.358, 0.9429)"
+  },
+  {
+    "question_id": "relation_2413998_0",
+    "answer": "(0.734, 0.5042, 0.846, 0.9549)"
+  },
+  {
+    "question_id": "relation_2413998_1",
+    "answer": "(0.394, 0.0676, 0.548, 0.7127)"
+  },
+  {
+    "question_id": "relation_2413652_0",
+    "answer": "(0.344, 0.0178, 1.0, 0.637)"
+  },
+  {
+    "question_id": "relation_2413091_0",
+    "answer": "(0.0, 0.0364, 0.29, 0.944)"
+  },
+  {
+    "question_id": "relation_2412997_0",
+    "answer": "(0.388, 0.003, 0.64, 0.6946)"
+  },
+  {
+    "question_id": "relation_2412997_1",
+    "answer": "(0.006, 0.1826, 0.482, 0.997)"
+  },
+  {
+    "question_id": "relation_2412966_0",
+    "answer": "(0.18, 0.0027, 0.666, 0.7813)"
+  },
+  {
+    "question_id": "relation_2411869_0",
+    "answer": "(0.58, 0.2312, 0.746, 0.5616)"
+  },
+  {
+    "question_id": "relation_2411869_1",
+    "answer": "(0.58, 0.2312, 0.746, 0.5616)"
+  },
+  {
+    "question_id": "relation_2411869_2",
+    "answer": "(0.008, 0.1592, 0.896, 0.3483)"
+  },
+  {
+    "question_id": "relation_2411572_0",
+    "answer": "(0.004, 0.018, 0.994, 0.4264)"
+  },
+  {
+    "question_id": "relation_2415688_0",
+    "answer": "(0.496, 0.1333, 0.652, 0.6107)"
+  },
+  {
+    "question_id": "relation_2415688_1",
+    "answer": "(0.496, 0.1333, 0.652, 0.6107)"
+  },
+  {
+    "question_id": "relation_2415688_2",
+    "answer": "(0.074, 0.2, 0.264, 0.9947)"
+  },
+  {
+    "question_id": "relation_2416030_0",
+    "answer": "(0.015, 0.448, 0.5556, 0.882)"
+  },
+  {
+    "question_id": "relation_2416202_0",
+    "answer": "(0.338, 0.4579, 0.592, 0.8519)"
+  },
+  {
+    "question_id": "relation_2416202_1",
+    "answer": "(0.582, 0.4141, 0.812, 0.8451)"
+  },
+  {
+    "question_id": "relation_2416376_0",
+    "answer": "(0.0, 0.2492, 0.196, 0.5195)"
+  },
+  {
+    "question_id": "relation_2416379_0",
+    "answer": "(0.5821, 0.6314, 0.941, 0.9829)"
+  }
+]

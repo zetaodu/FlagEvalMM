@@ -1,0 +1,41 @@
+{
+  "ACC@0.1": {
+    "num": 4423,
+    "correct": 4423,
+    "accuracy": 100.0
+  },
+  "ACC@0.3": {
+    "num": 4423,
+    "correct": 4423,
+    "accuracy": 100.0
+  },
+  "ACC@0.5": {
+    "num": 4423,
+    "correct": 4423,
+    "accuracy": 100.0
+  },
+  "ACC@0.7": {
+    "num": 4423,
+    "correct": 4423,
+    "accuracy": 100.0
+  },
+  "ACC@0.9": {
+    "num": 4423,
+    "correct": 4423,
+    "accuracy": 100.0
+  },
+  "Center_ACC": {
+    "num": 4423,
+    "correct": 4423,
+    "accuracy": 100.0
+  },
+  "avg": {
+    "num": 4423,
+    "correct": 4423,
+    "accuracy": 100.0
+  },
+  "accuracy": 100.0,
+  "average_tokens": 0.0,
+  "average_prompt_tokens": 0.0,
+  "average_completion_tokens": 0.0
+}
